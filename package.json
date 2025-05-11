@@ -1,10 +1,11 @@
 {
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^5.1.0",
     "fs-extra": "^11.3.0",
     "uuid": "^11.1.0"
   },
   "scripts": {
-  "start": "node index.js"
+    "start": "node index.js"
   }
 }

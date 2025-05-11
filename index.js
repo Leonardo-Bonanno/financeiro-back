@@ -4,6 +4,8 @@ const fs = require('fs-extra');
 const { v4: uuidv4 } = require('uuid');
 const app = express();
 
+
+const API_URL = 'https://financeiro-back-9wl7.onrender.com';
 // Definição de DB
 const DB_FILE = 'db.json';
 
