@@ -1,0 +1,18 @@
+{
+    "entrada": [
+      "Jardinagem",
+      "Cozinha",
+      "Papelaria",
+      "Limpeza",
+      "Organização",
+      "Brinquedo",
+      "Decoração"
+    ],
+    "saida": [
+      "Luz",
+      "Aluguel",
+      "Água",
+      "Internet",
+      "Mercadoria"
+    ]
+  }  
