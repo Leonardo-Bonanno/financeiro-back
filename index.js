@@ -2,8 +2,10 @@
 const express = require('express');
 const fs = require('fs-extra');
 const { v4: uuidv4 } = require('uuid');
+const cors = require('cors');
 const app = express();
 
+app.use(cors());
 
 const API_URL = 'https://financeiro-back-9wl7.onrender.com';
 // Definição de DB
